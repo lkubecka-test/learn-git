@@ -8,3 +8,5 @@ fork commit 3
 
 LCI-2 commit 1
 LCI-2 commit 2
+
+LCI-2 commit 3
